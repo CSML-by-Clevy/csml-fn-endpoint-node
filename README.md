@@ -1,6 +1,6 @@
 # CSML - Custom Fn endpoint for nodejs
 
-Create your own functions in nodejs to use in your own [CSML](https://csml.dev) chatbot!
+Create your own functions in nodejs to use in your own [CSML](https://csml.dev) chatbot! Find more information about custom CSML function runtimes in [this documentation](https://docs.csml.dev/language/custom-code-execution).
 
 ## Installation
 
